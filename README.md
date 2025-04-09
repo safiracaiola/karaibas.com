@@ -1,2 +1,3 @@
-# karaibas.com
-karaibas.com
+# Karaibas
+
+Painting and art website

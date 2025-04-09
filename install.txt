@@ -1,0 +1,33 @@
+
+https://training.nih-cfde.org/en/latest/General-Tools/Web-Development/Jekyll_Tutorial/
+
+- Install ruby + devkit
+
+- Go to project folder:
+	gem install jekyll bundler
+
+	bundle install
+
+	# version 3.0 error - webrick not found
+	
+	bundle add webrick
+
+# reload when pages are changed
+
+- bundle exec jekyll serve --livereload
+
+
+Step 1: Install Jekyll
+
+Open VS Code > Terminal:
+
+install jekyll
+install ruby
+install bundle
+
+Step 2: Build Jekyll site using template from GitHub¶
+
+
+git clone https://github.com/nih-cfde/Jekyll-demo.git
+
+..

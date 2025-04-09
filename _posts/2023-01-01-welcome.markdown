@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Quadro Palmela"
+date:   2023-01-01 10:00:00 -0000
+categories: news
+---
+
+Quadro 1 - Palmela
+
+![Quadro 1](quadro1.png)
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
